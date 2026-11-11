@@ -1,0 +1,8 @@
+{
+  "name": "Remix KINETIC - Neo-Brutalist Content Engine",
+  "description": "High-velocity Neo-Brutalist SaaS platform for modern marketing and content operations, featuring bold typography, hard offset shadows, and real-time content acceleration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
